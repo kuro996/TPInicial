@@ -56,6 +56,7 @@ public class Ventana {
 					window.frame.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
+					System.out.println("algo");
 				}
 			}
 		});
